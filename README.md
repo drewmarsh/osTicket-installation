@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/drewmarsh/osTicket-install-config-lifecycle">
-    <img src="/images/osticket-banner.png" height="244" alt="Banner">
+    <img src="/images/osticket-banner.png" width="598" alt="Banner">
   </a>
 </p>
 
