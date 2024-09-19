@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🧠 Environments and Technologies Used
+# 🧠 Technologies Used
 - Microsoft Azure (Cloud computing)
 - Microsoft Remote Desktop
 - Internet Information Services (IIS)
