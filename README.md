@@ -57,17 +57,6 @@
 
 <img src="/images/install-rewrite.png" alt="Install URL Rewrite Module for IIS"> <br>
 
-### 🛠️ Add MySQL to PATH
-
-If mysql.exe exists, add its directory to your system's PATH:
-
-1. Right-click on `This PC` or `My Computer` and select `Properties`
-2. Click on `Advanced system settings`
-3. Click `Environment Variables`
-4. Under **System variables**, find and select `Path`, then click `Edit`
-5. Click `New` and add the full path to your MySQL bin directory (e.g., `C:\Program Files (x86)\MySQL\MySQL Server 5.5\bin`)
-6. Click `OK` on all windows to save changes
-
 ### 🐘 Install and Configure PHP
 
 1. Download PHP binaries for Windows
