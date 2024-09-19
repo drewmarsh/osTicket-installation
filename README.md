@@ -30,7 +30,7 @@
 3. Expand **Internet Information Services** > **World Wide Web Services** > **Application Development Features**
 4. Tick &#9989;`CGI` > `OK` > After it finishes, click `Close`
 
-ADD IMAGE: [enable-iss-and-CGI]
+<img src="/images/enable-iss-and-CGI.png" alt="Enable ISS and CGI"> <br>
 
 ### 🗄️ Install Required Software
 
@@ -43,19 +43,19 @@ ADD IMAGE: [enable-iss-and-CGI]
    - Click `Execute`
    - After it concludes, click `Finish`
 
-ADD IMAGE: [install-mysql]
+<img src="/images/install-mysql.png" alt="Install MySQL"> <br>
 
 2. Install Visual C++ Redistributable
 
-ADD IMAGE: [install-visc]
+<img src="/images/install-visc.png" alt="Install Visual C++ Redistributable"> <br>
 
 3. Install PHP Manager for IIS
 
-ADD IMAGE: [install-phpman]
+<img src="/images/install-phpman.png" alt="Install PHP Manager for IIS"> <br>
 
 4. Install URL Rewrite Module for IIS
 
-ADD IMAGE: [install-rewrite]
+<img src="/images/install-rewrite.png" alt="Install URL Rewrite Module for IIS"> <br>
 
 ### 🛠️ Add MySQL to PATH
 
@@ -98,7 +98,7 @@ If mysql.exe exists, add its directory to your system's PATH:
       open_basedir = "C:\inetpub\wwwroot;C:\Windows\Temp;C:\PHP\temp"
       ```
 
-ADD IMAGE: [configure-phpini]
+<img src="/images/configure-phpini.png" alt="Configure PHP.ini"> <br>
 
 ### 🔧 Configure IIS for PHP
 
@@ -113,7 +113,7 @@ ADD IMAGE: [configure-phpini]
    - Name: `PHP_via_FastCGI`
 6. Click `OK` and accept the prompt to create a FastCGI application
 
-ADD IMAGE: [configure-iss-for-php]
+<img src="/images/configure-iss-for-php.png" alt="Configure IIS for PHP"> <br>
 
 ### ⚙️ Set Up FastCGI Settings
 
@@ -125,7 +125,7 @@ ADD IMAGE: [configure-iss-for-php]
    - `PHP_FCGI_MAX_REQUESTS` : `10000`
    - `PHPRC` : `C:\PHP`
 
-ADD IMAGE: [fastcgi-settings]
+<img src="/images/fastcgi-settings.png" alt="FastCGI Settings"> <br>
 
 ### 📄 Configure Default Document
 
@@ -133,7 +133,7 @@ ADD IMAGE: [fastcgi-settings]
 2. Open `Default Document`
 3. Click `Add…` in the right panel and then add `index.php` to the list
 
-ADD IMAGE: [configure-defaultdoc]
+<img src="/images/configure-defaultdoc.png" alt="Configure Default Document"> <br>
 
 ### 🧪 Restart IIS & Test PHP
 1. In **Internet Information Services (IIS) Manager**, select the server
@@ -145,7 +145,7 @@ ADD IMAGE: [configure-defaultdoc]
    ```
 4. Access it through your browser: `http://localhost/phpinfo.php`
 
-ADD IMAGE: [test-php]
+<img src="/images/test-php.png" alt="Test PHP"> <br>
    
 ### 🎫 osTicket Setup
 
@@ -169,9 +169,9 @@ ADD IMAGE: [test-php]
 
 9. Click `Browse *:80 (http)` in the right panel
 
-ADD IMAGE: [setup-osticket1]
+<img src="/images/setup-osticket1.png" alt="osTicket Setup 1"> <br>
 
-ADD IMAGE: [setup-osticket2]
+<img src="/images/setup-osticket2.png" alt="osTicket Setup 2"> <br>
 
 ### 🗃️ HeidiSQL Installation & Configuration
 
@@ -180,9 +180,9 @@ ADD IMAGE: [setup-osticket2]
 3. Click `Open`
 4. On the left panel of HeidiSQL, right-click `Unnamed` and then navigate to `Create new` > `Database`, in the **Name:** field, enter `osTicket` and then press `OK`. Finally, close out of HeidiSQL.
 
-ADD IMAGE: [install-heidisql]
+<img src="/images/install-heidisql.png" alt="Install HeidiSQL"> <br>
 
-ADD IMAGE: [configure-heidisql]
+<img src="/images/configure-heidisql.png" alt="Configure HeidiSQL"> <br>
 
 ### 🏁 Complete osTicket Installation
 
@@ -211,6 +211,6 @@ ADD IMAGE: [configure-heidisql]
 
 7. Finally, enter the username and password to access the osTicket dashboard.
 
-ADD IMAGE: [complete-osticket-installation]
+<img src="/images/complete-osticket-installation.png" alt="Complete osTicket Installation"> <br>
 
-ADD IMAGE: [osticket-dashboard]
+<img src="/images/osticket-dashboard.png" alt="osTicket Dashboard"> <br>
