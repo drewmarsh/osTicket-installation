@@ -161,6 +161,8 @@ If mysql.exe exists, add its directory to your system's PATH:
    - Click `Add` > `Select a principal` >  In the text field, enter "everyone"
    - Tick &#9989;`Full control` > `OK` > `Apply` > `OK` > `OK`
 
+<img src="/images/setup-osticket1.png" alt="osTicket Setup 2"> <br>
+
 7. Then, in **Internet Information Services (IIS) Manager**, select the server and click `Restart` in the right pane
 8. In the left panel, expand **Sites** > **Default Web Site**, and then click **osTicket**
 
@@ -169,9 +171,7 @@ If mysql.exe exists, add its directory to your system's PATH:
 
 9. Click `Browse *:80 (http)` in the right panel
 
-<img src="/images/setup-osticket1.png" alt="osTicket Setup 1"> <br>
-
-<img src="/images/setup-osticket2.png" alt="osTicket Setup 2"> <br>
+<img src="/images/setup-osticket2.png" alt="osTicket Setup 1"> <br>
 
 ### 🗃️ HeidiSQL Installation & Configuration
 
