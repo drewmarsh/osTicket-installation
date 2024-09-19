@@ -200,6 +200,6 @@
 
 7. Finally, enter the username and password to access the osTicket dashboard.
 
-<img src="/images/complete-osticket-installation.png" height="674" alt="Complete osTicket Installation"> <br>
+<img src="/images/complete-osticket-installation.png" width="674" alt="Complete osTicket Installation"> <br>
 
 <img src="/images/osticket-dashboard.png" alt="osTicket Dashboard"> <br>
