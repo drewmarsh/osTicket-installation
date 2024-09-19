@@ -1,11 +1,10 @@
-# Environments and Technologies Used
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+# 🧠 Environments and Technologies Used
+- Microsoft Azure (Cloud computing)
+- Microsoft Remote Desktop
 - Internet Information Services (IIS)
-- Windows 10 Professional (22H2)
 
-# List of Prerequisites
-- Microsoft Azure Virtual Machine
+# 📋 List of Prerequisites
+- Microsoft Azure Virtual Machine (Windows 10 Professional 22H2)
 - osTicket v1.15.8
 - MySQL v5.5.62 (win32)
 - Heidi SQL build 12.3.0.6589
