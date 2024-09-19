@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/drewmarsh/osTicket-install-config-lifecycle">
+    <img src="/images/osticket-banner.png" height="244" alt="Banner">
+  </a>
+</p>
+
 # 🧠 Environments and Technologies Used
 - Microsoft Azure (Cloud computing)
 - Microsoft Remote Desktop
