@@ -109,7 +109,7 @@
 1. In **Internet Information Services (IIS) Manager**, select the server
 2. Open `FastCGI Settings`
 3. Find the PHP entry and double-click it
-4. Under **Environment Variables** click `…` and then `Add`:
+4. Under **Environment Variables** click `…` and then `Add`
 5. Add the following environment variables and then press `OK` > `OK`:
    - `PHP_FCGI_MAX_REQUESTS` : `10000`
    - `PHPRC` : `C:\PHP`
@@ -165,7 +165,7 @@
 ### 🗃️ HeidiSQL Installation & Configuration
 
 1. Install and open HeidiSQL. Dismiss the donation message and then press `+New`
-2. In the **Password**nter the root password that was configured previously during the setup of MySQL Server 5.1
+2. In the **Password:** field, enter the root password that was configured previously during the setup of MySQL Server 5.1
 3. Click `Open`
 4. On the left panel of HeidiSQL, right-click `Unnamed` and then navigate to `Create new` > `Database`, in the **Name:** field, enter `osTicket` and then press `OK`. Finally, close out of HeidiSQL.
 
@@ -175,7 +175,7 @@
 
 ### 🏁 Complete osTicket Installation
 
-1. Navigate to `localhost/osTicket/setup` and click `Continue >>`
+1. Navigate to `localhost/osTicket/setup` and click `Continue »`
 2. Fill out the **System Settings** section:
    - Helpdesk Name: `osTicket`
    - Default Email: `osTicket.support@gmail.com`
