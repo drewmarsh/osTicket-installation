@@ -203,3 +203,5 @@
 <img src="/images/complete-osticket-installation.png" width="674" alt="Complete osTicket Installation"> <br>
 
 <img src="/images/osticket-dashboard.png" alt="osTicket Dashboard"> <br>
+
+### 👉 [Post-installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
