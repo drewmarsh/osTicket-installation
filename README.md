@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/drewmarsh/osTicket-install-config-lifecycle">
+  <a href="https://github.com/drewmarsh/osTicket-installation">
     <img src="/images/osticket-banner.png" width="598" alt="Banner">
   </a>
 </p>
