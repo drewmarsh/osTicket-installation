@@ -9,8 +9,7 @@
 - Microsoft Remote Desktop
 - Internet Information Services (IIS)
 
-# 📥 Setup & Installation
-### 📋 List of Prerequisites
+# 📋 List of Prerequisites
 - Microsoft Azure Virtual Machine (Windows 10 Professional x64 22H2)
 - osTicket v1.15.8
 - MySQL v5.5.62 (win32)
@@ -19,6 +18,8 @@
 - PHP Manager for IIS v1.5.0
 - IIS URL Rewrite Module 2
 - Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.34.31931
+
+# 📥 Setup & Installation
 
 ### 🖥️ [Create and Access Azure Virtual Machine](https://github.com/drewmarsh/azure-creating-VM)
 
