@@ -80,7 +80,7 @@
       
       ;FastCGI settings
       fastcgi.impersonate = 1
-      cgi.fix_pathinfo = 0
+      cgi.fix_pathinfo = 1
       cgi.force_redirect = 0
       
       ;Security setting 
