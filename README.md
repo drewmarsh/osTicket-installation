@@ -8,7 +8,7 @@
 
 ### 📍 Part 1: Prerequisites & osTicket Installation
 ### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
-### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo)
 
 </div>
 
@@ -216,6 +216,6 @@
 
 ### 📍 Part 1: Prerequisites & osTicket Installation
 ### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
-### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-demo)
 
 </div>
