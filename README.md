@@ -4,6 +4,14 @@
   </a>
 </p>
 
+<div align="center">
+
+### 📍 Part 1: Prerequisites & osTicket Installation
+### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
+### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+
+</div>
+
 # 🧠 Technologies Used
 - Microsoft Azure (Cloud computing)
 - Microsoft Remote Desktop
@@ -204,4 +212,10 @@
 
 <img src="/images/osticket-dashboard.png" alt="osTicket Dashboard"> <br>
 
-### 👉 [Post-installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
+<br><div align="center">
+
+### 📍 Part 1: Prerequisites & osTicket Installation
+### 👉 [Part 2: Post-Installation Configuration](https://github.com/drewmarsh/osTicket-post-install-configuration)
+### 👉 [Part 3: Ticket Lifecycle Examples](https://github.com/drewmarsh/osTicket-ticket-lifecycle-examples)
+
+</div>
