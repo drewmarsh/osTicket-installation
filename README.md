@@ -206,7 +206,7 @@
 
 6. Once you see the "Congratulations!" screen, click the `Admin Panel` hyperlink
 
-7. Finally, enter the username and password to access the osTicket dashboard.
+7. Finally, enter the username and password to access the osTicket dashboard
 
 <img src="/images/complete-osticket-installation.png" width="674" alt="Complete osTicket Installation"> <br>
 
